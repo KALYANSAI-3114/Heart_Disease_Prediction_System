@@ -1,0 +1,18 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+
+# Jupyter
+.ipynb_checkpoints/
+Why this is good
+
+
+# Virtual Environments
+venv/
+env/
+.venv/
+.ENV/
+virtualenv/
+pipenv/

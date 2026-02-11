@@ -1,0 +1,7 @@
+
+# For ML
+numpy 
+pandas 
+matplotlib
+seaborn
+scikit-learn
